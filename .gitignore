@@ -1,0 +1,11 @@
+.DS_store
+node_modules
+*.txt
+.env
+.sass-cache
+vscode/*  
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+**/.history
